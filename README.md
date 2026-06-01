@@ -21,5 +21,3 @@ Armazenar os arquivos do projeto e registrar a instalação, configuração, tro
 - GLPI
 - GLPI Agent
 
-## Observações
-Arquivos sensíveis foram removidos ou sanitizados antes do versionamento.
